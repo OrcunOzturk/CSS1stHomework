@@ -1,0 +1,36 @@
+body {background-color: mintcream;text-align: center;}
+h1{color:dodgerblue;}
+h2{color: slateblue;}
+h3{color: orange;}
+ol img {
+    vertical-align:bottom;
+ }
+ul {
+    display: inline-block;
+text-align: left; }
+
+div {
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  img {width: 480px;}
+
+ /* figcaption {
+    width: 100%;
+    margin-left: 358px;
+    background-color: plum;
+    color: white;
+    font-style: italic;
+    padding: 4px;
+    text-align: center;
+  }
+  ul,ol {
+    display: inline-block;
+    text-align:left;
+}
+  
+  */
